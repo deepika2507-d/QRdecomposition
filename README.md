@@ -58,8 +58,9 @@ print(R)
 ```
 
 ## Output
-```
 ![image](https://github.com/user-attachments/assets/b19ead99-53eb-4f95-8e25-1959dd98e215)
+
+
 
 ```
 
